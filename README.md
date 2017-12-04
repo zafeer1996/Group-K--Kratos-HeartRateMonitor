@@ -1,2 +1,0 @@
-# Trial
-first repository
